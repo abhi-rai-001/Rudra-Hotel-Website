@@ -9,8 +9,6 @@ lerna-debug.log*
 
 # Dependencies
 node_modules
-dist
-dist-ssr
 *.local
 
 # Editor directories and files
@@ -31,13 +29,6 @@ dist-ssr
 .env.test.local
 .env.production.local
 
-# Build directories
-build/
-out/
-.next/
-.nuxt/
-.cache/
-
 # Testing
 coverage/
 .nyc_output/
@@ -51,11 +42,6 @@ tmp/
 # System files
 Thumbs.db
 desktop.ini
-
-# Package files
-yarn.lock
-package-lock.json
-pnpm-lock.yaml
 
 # Optional npm cache directory
 .npm
