@@ -19,9 +19,9 @@ const Footer = () => {
     </div>
    <div className=' w-1/3 flex-col justify-between align-center m-auto' > <ul>
     <li className='mb-5'> Connect with us </li>
-    <li className='flex items-center gap-2 mb-4'> <img src="/SVG/icons8-instagram.svg" alt="Insta" /> Instagram </li>
-    <li className='flex items-center gap-2 mb-4'> <img src="/SVG/icons8-facebook.svg" alt="Facebook" /> Facebook </li>
-    <li className='flex items-center gap-2 mb-4'> <img src="/SVG/icons8-x.svg" alt="X" /> X</li>
+    <li className='flex items-center gap-2 mb-4'> <img src="./SVG/icons8-instagram.svg" alt="Insta" /> Instagram </li>
+    <li className='flex items-center gap-2 mb-4'> <img src="./SVG/icons8-facebook.svg" alt="Facebook" /> Facebook </li>
+    <li className='flex items-center gap-2 mb-4'> <img src="./SVG/icons8-x.svg" alt="X" /> X</li> 
     </ul>
     </div>
     
