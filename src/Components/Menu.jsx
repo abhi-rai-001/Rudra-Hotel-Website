@@ -16,11 +16,11 @@ const Menu = () => {
     </div>
 
    
-<div className='menu-color mx-auto my-10 commitment'>
+<div className='menu-color mx-auto my-10  min-w-full sm:w-3/4 lg:w-1/2 commitment'>
   <div className='flex flex-col-reverse lg:flex-row justify-between items-center m-auto p-6 md:p-10 lg:p-20'>
-    <div className='w-full lg:w-1/2'>
-      <div className='veggies w-full h-[300px] sm:h-[400px] lg:h-[500px]'></div>
-    </div>
+  
+      <div className='veggies w-full lg:w-1/2 h-[300px] sm:h-[400px] lg:h-[500px]'></div>
+ 
     
     <div className='w-full lg:w-1/2 text-center lg:text-left mb-8 lg:mb-0'>
       <h2 className='text-2xl sm:text-3xl font-bold mb-4 md:mb-7'>Our Commitment to Quality</h2>
