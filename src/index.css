@@ -163,7 +163,7 @@ button,
 
 .platter{
   background-image: url(/Images/Platter.jpg);
-  width: 600px;
+  max-width: 600px;
   height: 400px;
   background-position: center;
   background-size: cover;
@@ -172,7 +172,7 @@ button,
   
 }
 .menu-color{
-  width: 80%;
+  max-width: 80%;
   border-radius: 12px;
   min-height: 600px;
 }
@@ -196,7 +196,7 @@ button,
 
  .footer{
   background-color: #264653;
-  height: 30vh;
+  min-height: 30vh;
  }
 
  .btn{
